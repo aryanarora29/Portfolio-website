@@ -16,7 +16,7 @@ const Navbar = () => {
       </div>
       {/* unordered list loop through all the element taht we are going to have in nav bar */}
       <ul className="app__navbar-links">
-        {['home', 'about', 'work', 'skills', 'contact'].map((item) => (
+        {['home', 'about', 'work', 'skills' , 'contact'].map((item) => (
           <li className="app__flex p-text" key={`link-${item}`}>
             {/* app__flex is use to center the text */}
             <div />

@@ -9,7 +9,7 @@ projectId: '4rpuofiu',
 dataset: 'production',
 //apiVersion: '2022-02-01',
 useCdn: true,
-//token:'skNmdBaQrMeeQMkG2ICJ3BgZFHjXTOeIvaXIMCauDEoEK8lTUVN1szX0j8gAorCYQTFAwPPj1mIB96I78PxkHOgORZkp0f6AfXDGsCnjjfm5VK3mPvkTnIUTWtjNOMLK6EInJ4gUcyKV87iYiDbXSS7xnHeZ6NJFDqAnFP0kvJ8FZ3TzssZM',
+token:'skNmdBaQrMeeQMkG2ICJ3BgZFHjXTOeIvaXIMCauDEoEK8lTUVN1szX0j8gAorCYQTFAwPPj1mIB96I78PxkHOgORZkp0f6AfXDGsCnjjfm5VK3mPvkTnIUTWtjNOMLK6EInJ4gUcyKV87iYiDbXSS7xnHeZ6NJFDqAnFP0kvJ8FZ3TzssZM',
  
 //process.env.REACT_APP_SANITY_TOKEN,
 }) ;
